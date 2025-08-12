@@ -1,0 +1,12 @@
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/port.c
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+can-esp8266-dht11\port.o: D:\Keil5\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stddef.h
+can-esp8266-dht11\port.o: D:\Keil5\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+can-esp8266-dht11\port.o: ../Core/Inc/FreeRTOSConfig.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM3/portmacro.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+can-esp8266-dht11\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
