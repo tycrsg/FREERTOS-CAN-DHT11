@@ -1,0 +1,2 @@
+# FREERTOS-CAN-DHT11
+这是一个基于freertos的通过can协议将温湿度数据从从控传递到主控最后上云的项目
